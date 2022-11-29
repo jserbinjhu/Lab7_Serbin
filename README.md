@@ -5,9 +5,9 @@ Final C code (not executable) is located under src.
 If FPGA is already running and loaded, under the final submission folder all necessary files are there. Both the bit.bin and the executable to run the software. 
 
 How to: 
-run the program as executable
-user will be prompted to enter ip address of host machine where the matlab program will be running 
-program will display menu of options 
+-run the program as executable
+-user will be prompted to enter ip address of host machine where the matlab program will be running 
+-program will display menu of options 
 
 Note : if you are building in windows and vivado is not installed in c:\Xilinx\Vivado\2022.1, you will have to change one thing
 I included the settings64.bat file in the make_project.bat just to save a step.  Change that to your Install directory
